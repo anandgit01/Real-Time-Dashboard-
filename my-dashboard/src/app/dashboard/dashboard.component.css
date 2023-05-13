@@ -1,0 +1,30 @@
+.dashboard-container {
+  width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0f0f0;
+  border-radius: 4px;
+}
+
+.dashboard-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.dashboard-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.dashboard-item {
+  margin-bottom: 8px;
+}
+
+.dashboard-metric {
+  font-weight: bold;
+}
+
+.dashboard-value {
+  margin-left: 10px;
+}
+
